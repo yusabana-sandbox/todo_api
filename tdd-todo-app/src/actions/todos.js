@@ -14,8 +14,4 @@ export const fetchTodos = () => {
   ]
 
   return fetchTodosSuccess(todos)
-  // {
-  //   type: 'FETCH_TODO',
-  //   todos,   // キーとバリューが一緒であれば省略可能 「todos: todos」 と同じ
-  // }
 }

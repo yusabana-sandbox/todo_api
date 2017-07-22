@@ -6,10 +6,6 @@ describe('todos action', () => {
       id: 1,
       title: 'todo1',
     },
-    // {
-    //   id: 2,
-    //   title: 'todo2',
-    // }
   ]
 
   describe('action creator', () => {
